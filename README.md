@@ -1,1 +1,89 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=220&section=header" />
+</p>
 
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0085&size=35&center=true&vCenter=true&width=700&lines=🏵️+ᴊᴀɪ+sʜʀᴇᴇ+ʀᴀᴍ+🚩">
+</h1>
+
+<p align="center">
+  <img src="https://files.catbox.moe/tjx1zm.jpg" width="140px" height="140px" style="border-radius:50%;" />
+</p>
+
+<h1 align="center">ʜᴇʏ ᴅᴇᴀʀ, ɪ'ᴍ ʀᴀᴜsʜᴀɴ ᴘᴀʟ 👀 </h1>
+
+<p align="center">
+  👨‍💻 ᴄᴜsᴛᴏᴍ ᴅᴇᴠᴇʟᴏᴘᴇʀ | 📢 sᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ ʙᴀɴɴᴇʀ | 🎮 ɢᴀᴍᴇʀ
+</p>
+
+<p align="center">
+  🧡 ɪ'ᴍ ɴᴏᴛ ᴀ ᴘʀᴏғᴇssɪᴏɴᴀʟ ᴄᴏᴅᴇʀ, ɪ ᴊᴜsᴛ ʜᴀᴠᴇ sᴏᴍᴇ ᴋɴᴏᴡʟᴇᴅɢᴇ ᴏғ ᴄᴏᴅɪɴɢ ᴀɴᴅ ʟᴏᴠᴇ ʟᴇᴀʀɴɪɴɢ ɴᴇᴡ ᴛʜɪɴɢs. 🚀
+</p>
+
+---
+
+<h2 align="center">📊 ᴍʏ ɢɪᴛʜᴜʙ sᴛᴀᴛs & ɪɴғᴏ</h2>
+
+<a href="https://github.com/Im-NotCoder">
+  <img src="https://anya-github-stats.vercel.app/api/stats?username=Im-NotCoder&theme=tokyonight" alt="Im-NotCoder GitHub Stats" width="100%" />
+</a>
+---
+
+<h1 align="center">🏖️ ꜱᴏᴍᴇ ᴘʀᴏɢʀᴀᴍɪɴɢ ᴛᴏᴏʟꜱ ɪ ʜᴀᴠᴇ ʙᴀꜱɪᴄ ᴋɴᴏᴡʟᴇᴅɢᴇ ᴏꜰ</h1>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,git,linux,bash,mysql" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Im-Notcoder&label=PROFILE+VIEWS&color=ff69b4&style=for-the-badge&labelColor=000000" width="40%"/>
+</p>
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Im-Notcoder/Im-Notcoder/output/snake.svg" width="700"/>
+</p>
+
+---
+
+
+<h1 align="center">📫 ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ</h1>
+
+<p align="center">
+  <a href="https://t.me/KingxAra">
+    <img src="https://img.shields.io/badge/-KingxAra-800080?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0" width="180"/>
+  </a>
+  <a href="https://instagram.com/careless__02">
+    <img src="https://img.shields.io/badge/-careless__02-FF8C00?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" width="180"/>
+  </a>
+  <br>
+  <a href="https://raushan-pal.vercel.app">
+    <img src="https://img.shields.io/badge/-protifolio-FFFF00?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" width="180"/>
+  </a>
+  <a href="mailto:botspurvi@gmail.com">
+    <img src="https://img.shields.io/badge/-GMAIL-9400D3?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" width="180"/>
+  </a>
+</p>
+
+---
+
+<h1 align="center">🤝 ᴊᴏɪɴ ᴜs</h1>
+
+<p align="center">
+  <a href="https://t.me/purvi_updates">
+    <img src="https://img.shields.io/badge/-purvi__updates-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000" width="180"/>
+  </a>
+  <a href="https://t.me/purvi_bots">
+    <img src="https://img.shields.io/badge/-purvi__bots-229ED9?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000" width="180"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=footer"/>
+</p>
