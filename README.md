@@ -24,8 +24,8 @@
 
 <h2 align="center">📊 ᴍʏ ɢɪᴛʜᴜʙ sᴛᴀᴛs & ɪɴғᴏ</h2>
 
-<a href="https://github.com/Im-NotCoder">
-  <img src="https://anya-github-stats.vercel.app/api/stats?username=Im-NotCoder&theme=tokyonight" alt="Im-NotCoder GitHub Stats" width="100%" />
+<a href="https://github.com/itszriteshsingh">
+  <img src="https://anya-github-stats.vercel.app/api/stats?username=itszriteshsingh&theme=tokyonight" alt="Im-NotCoder GitHub Stats" width="100%" />
 </a>
 ---
 
