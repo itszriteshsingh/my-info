@@ -10,7 +10,7 @@
   <img src="https://files.catbox.moe/tjx1zm.jpg" width="140px" height="140px" style="border-radius:50%;" />
 </p>
 
-<h1 align="center">ʜᴇʏ ᴅᴇᴀʀ, ɪ'ᴍ ʀᴀᴜsʜᴀɴ ᴘᴀʟ 👀 </h1>
+<h1 align="center">ʜᴇʏ ᴅᴇᴀʀ, ɪ'ᴍ ʀɪᴛᴇsʜ sɪɴɢʜ 👀 </h1>
 
 <p align="center">
   👨‍💻 ᴄᴜsᴛᴏᴍ ᴅᴇᴠᴇʟᴏᴘᴇʀ | 📢 sᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ ʙᴀɴɴᴇʀ | 🎮 ɢᴀᴍᴇʀ
